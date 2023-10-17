@@ -4,4 +4,4 @@ This is a simple spatial audio player for the Teensy platform. Teensy 4.0 or 4.1
 
 The recordings placed in the various versions of `spatial.wav` can be encoded using any spatial audio technique: vbap, WFS, ambisonics, etc.
 
-This work is the fruit of a collaboration between RISD (RA, USA) and the Emeraude Team at Inria (France).
+This work is the fruit of a collaboration between SRST at RISD (RI, USA) and the Emeraude Team at Inria (France).
